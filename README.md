@@ -15,3 +15,6 @@ Pytorch implementation of our paper: Perception-Oriented Single Image Super-Reso
 
 - Download the pretrained SR 4x model <a href="https://www.dropbox.com/s/v7lx9qoji1ndonx/SR.pth?dl=0">Link</a>   
 - Download the pretrained OOE model <a href="https://www.dropbox.com/s/hoykbrpadzozlab/OOE.pth?dl=0">Link</a>
+
+### Visual and quantitative comparison between the results of SROOE and FxSR for 4x
+<p align="center"><img src="figure/SROOE Vs FxSR - 4x.PNG" width="700"></p>
